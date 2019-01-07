@@ -1,0 +1,23 @@
+  .lefta {
+    width: 50%;
+    height: 100%;
+    background: #A9A9A9;
+    left: 0;
+    position: absolute;
+  }
+.offa {
+    background: none;
+    color: #00FFFF;
+    box-shadow: none;
+  }
+  
+  .righta .offa:hover {
+    background: #eee;
+    color: #00FFFF;
+    box-shadow: none;
+  }
+  .lefta .offa:hover {
+    box-shadow: none;
+    color: #00FFFF;
+    background: #363A3D;
+  }
